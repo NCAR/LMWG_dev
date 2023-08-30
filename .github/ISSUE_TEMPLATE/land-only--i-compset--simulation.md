@@ -11,14 +11,14 @@ assignees: ''
 
 ___
 **Case directory:**
-Locally (if still available):
+Locally:
 /glade/work/$USER/$TAG/cime/scripts/$CASE
 
 On github:
 https://github.com/NCAR/LMWG_dev/tree/$CASE
 ___
 **Sandbox:**
-Locally (if still available):
+Locally:
  /glade/work/$USER/$TAG
  ___
 **user_nl_* changes:**
