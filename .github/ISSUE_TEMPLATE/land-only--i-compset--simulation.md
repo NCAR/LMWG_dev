@@ -13,15 +13,12 @@ ___
 **Case directory:**
 Locally:
 /glade/work/$USER/$TAG/cime/scripts/$CASE
-
-On github:
-https://github.com/NCAR/LMWG_dev/tree/$CASE
 ___
 **Sandbox:**
 Locally:
  /glade/work/$USER/$TAG
  ___
-**user_nl_* changes:**
+**user_nl_ changes:**
 
  ___
 **SourceMods:**
